@@ -1,0 +1,11 @@
+---
+slug: commandlinehero
+filename: commandlinehero
+title: Command Line Hero
+subtitle: Use CLI to manipulate data and automate tasks.
+description: A super fast course in using CLI/Terminal for mac OSX, Linux or Windows machine with PowerShell.
+author: Rahul Lakhaney
+copyright: 2016
+uuid: 82fb9735-44d7-4fe9-a538-ee39c038b621
+pdf_preview_page_range: 1..30
+epub_mobi_preview_chapter_range: 0..1
