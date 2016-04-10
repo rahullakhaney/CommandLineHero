@@ -1,3 +1,5 @@
-# Document README (please edit)
+# Command Line Hero
 
-## Note : Add readme after finishing the book
+Use CLI to manipulate data and automate tasks.
+
+[View the Book](http://clihero.rahullakhaney.me/book)
