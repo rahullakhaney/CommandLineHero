@@ -8,3 +8,4 @@ introduction.md
 navigation.md
 manipulation.md
 redirection.md
+environment.md
